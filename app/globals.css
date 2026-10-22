@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-inter), "Segoe UI", sans-serif;
+  --color-navy: #08111f;
+  --color-navy-800: #10233d;
+  --color-navy-700: #1b3a63;
+  --color-brand: #0a56c2;
+  --color-brand-dark: #08469c;
+  --color-ice: #f4f7fb;
+  --color-mist: #e6eef6;
+  --color-ink: #101828;
+  --color-muted: #526277;
+  --color-line: #d7e2ee;
+}
+
+html {
+  scroll-padding-top: 5.5rem;
+}
+
+body {
+  background: var(--color-ice);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  overflow-x: clip;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  .hero-rise {
+    animation: hero-rise 0.7s ease both;
+  }
+}
+
+@keyframes hero-rise {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-brand);
+  outline-offset: 3px;
+}
+
+::selection {
+  background: #d5e4fb;
+}
+
+[id] {
+  scroll-margin-top: 5.5rem;
+}
