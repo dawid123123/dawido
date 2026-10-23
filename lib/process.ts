@@ -14,7 +14,7 @@ export const processSteps = [
   {
     number: "03",
     title: "Bóklegt nám og ökutímar",
-    text: "Bóklegt nám fer að jafnaði fram í ökuskóla og verklegir ökutímar hjá ökukennara. Umfangið fer eftir flokki og fyrra námi.",
+    text: "Í B-flokki er bóklegt nám í ökuskóla og ökutímar hjá ökukennara. Meirapróf hefur 52 stunda grunnnám og sérnám. BE er fyrst og fremst verklegt.",
     icon: "book",
   },
   {
@@ -26,7 +26,7 @@ export const processSteps = [
   {
     number: "05",
     title: "Ökupróf",
-    text: "Þegar kennsla og skilyrði námskrár eru uppfyllt er tekið bóklegt og verklegt próf. Lágmarksaldur flokksins ræður hvenær próf má taka.",
+    text: "B-flokkur og meirapróf hafa bóklegt og verklegt próf. BE-flokkur hefur verklegt próf. Lágmarksaldur flokksins ræður hvenær próf má taka.",
     icon: "exam",
   },
   {

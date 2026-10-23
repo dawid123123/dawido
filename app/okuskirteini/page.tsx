@@ -31,8 +31,12 @@ export default function CategoriesPage() {
         <div className="mx-auto w-full max-w-6xl">
           <h2 className="text-2xl font-semibold text-navy">Flokkarnir í stuttu máli</h2>
           <p className="mt-3 max-w-3xl leading-7 text-muted">
-            Tölurnar eru úr flokkaskrá Ísland.is og reglugerð nr. 830/2011. Þær eru almenn
-            leiðsögn, ekki tæmandi listi yfir öll ökutæki sem hver flokkur nær til.
+            Tölurnar eru úr flokkaskrá Ísland.is. Þær eru almenn leiðsögn, ekki tæmandi
+            listi yfir öll ökutæki sem hver flokkur nær til. C1, C1E, D1, D1E og DE eru
+            aðrir flokkar og eru ekki kenndir hjá DRIVEON. C1 er vörubifreið frá 3.500 kg
+            upp í 7.500 kg, 18 ára. D1 er hópbifreið sem er ekki lengri en 8 metrar og
+            fyrir 16 farþega eða færri, 21 árs. E-flokkarnir bæta við eftirvagni þyngri
+            en 750 kg aftan við viðkomandi bifreið.
           </p>
           <div className="mt-6 overflow-x-auto rounded-2xl border border-line bg-white">
             <table className="min-w-[46rem] w-full text-left text-sm">

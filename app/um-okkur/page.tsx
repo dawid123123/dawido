@@ -35,8 +35,10 @@ export default function AboutPage() {
             </p>
             <p>
               Tímar eru skipulagðir í samráði. Nálgunin er persónuleg og öryggi í akstri er í
-              fyrirrúmi. Vefurinn útskýrir opinbert ferli ökunáms, en einstaklingsbundin ráðgjöf
-              fæst í samtali við ökukennarann.
+              fyrirrúmi. Verklegir ökutímar eru hjá DRIVEON. Bóklegt nám í B-flokki og
+              grunnnám meiraprófs fer fram í ökuskóla sem nemandi velur. Vefurinn útskýrir
+              opinbert ferli ökunáms, en einstaklingsbundin ráðgjöf fæst í samtali við
+              ökukennarann.
             </p>
             <p>
               Hér eru ekki birtar fullyrðingar um starfsaldur, prófgráður, umsagnir eða verðlaun.

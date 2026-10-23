@@ -40,8 +40,16 @@ export const sources = {
     label: "Reglugerð nr. 830/2011 um ökuskírteini",
     href: "https://island.is/reglugerdir/nr/0830-2011",
   },
+  curriculum: {
+    label: "Námskrár fyrir ökunám og endurmenntun",
+    href: "https://island.is/namskrar-fyrir-okunam",
+  },
   exams: {
     label: "Ökupróf hjá Frumherja",
     href: "https://frumherji.is/okuprofasvid/",
+  },
+  examFees: {
+    label: "Verðskrá ökuprófa hjá Frumherja, 1. janúar 2026",
+    href: "https://frumherji.is/wp-content/uploads/2026/01/FRH-3620-01.2026.pdf",
   },
 } as const satisfies Record<string, SourceLink>;
