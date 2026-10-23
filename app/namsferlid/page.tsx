@@ -28,17 +28,18 @@ const sections = [
     heading: "Undirbúningur og umsókn",
     paragraphs: [
       "Fyrsta skrefið er að velja ökukennara. Áður en nám hefst þarf námsheimild frá sýslumanni. Fyrir fyrsta ökuskírteinið í B-flokki sækir nemandinn um á Ísland.is með rafrænum skilríkjum. Ökunám getur hafist við 16 ára aldur og skírteinið má gefa út á 17 ára afmælisdegi.",
-      "Fyrir aukin réttindi, svo sem BE, C, CE og D, er einnig sótt um hjá sýslumanni. Skila þarf einu umsóknarblaði fyrir hvern flokk. Ísland.is nefnir heilbrigðisvottorð sem er ekki eldra en þriggja mánaða. Aldur og forsaga fyrri réttinda eru ólík eftir flokki og eru útskýrð á síðu hvers flokks.",
+      "Fyrir aukin réttindi, svo sem BE, C, CE og D, er einnig sótt um hjá sýslumanni. Skila þarf einu umsóknarblaði fyrir hvern flokk. Umsókn skal fylgja heilbrigðisvottorð sem er ekki eldra en þriggja mánaða, og ljósmynd ef mynd er ekki til í kerfi. Ísland.is segir að sækja megi um og hefja nám sex mánuðum áður en lágmarksaldri er náð. Aldur og forsaga fyrri réttinda eru ólík eftir flokki.",
       "Þegar námsheimild er samþykkt stofnast stafræn ökunámsbók. Í hana eru skráðir ökutímar, staðfestingar úr ökuskóla og niðurstöður prófa. Námsheimild gildir í tvö ár.",
     ],
   },
   {
     heading: "Bóklegt nám og ökutímar",
     paragraphs: [
-      "Umsækjandi sem er að taka réttindi í fyrsta sinn í flokki skal sækja verklegt nám hjá ökukennara með löggildingu fyrir flokkinn og bóklegt nám sem að jafnaði fer fram í ökuskóla. Námið fylgir námskrá sem Samgöngustofa setur og ráðherra staðfestir.",
-      "Í B-flokki skiptist bóklega námið, samkvæmt Ísland.is, í Ökuskóla 1, 2 og 3 og er oft kennt í netnámi. Verklegir tímar eru teknir samhliða. Hluti verklegs náms í B-flokki skal fara fram í ökugerði áður en ökuprófi lýkur.",
-      "Lágmarksfjöldi kennslustunda er í 10. gr. reglugerðar nr. 830/2011. Hver stund er 45 mínútur. Fyrir B-flokk eru það 25 bóklegar stundir og 17 verklegar. Fyrir BE eru fjórar verklegar stundir skráðar. Fyrir C til vöruflutninga í atvinnuskyni eru það 32 bóklegar og 12 verklegar. Fyrir CE eru það fjórar bóklegar og sjö verklegar. Fyrir D til farþegaflutninga í atvinnuskyni eru það 48 bóklegar og 12 verklegar. Fækkun getur átt við vegna fyrra náms.",
-      "Ísland.is nefnir einnig 15 ökutíma sem lágmark í B-flokki og aðrar tölur um hvenær megi taka bóklegt próf. Þessar tölur stemma ekki allar við reglugerðina. Ökukennari staðfestir hvenær námi er lokið. Sjá athugasemd neðar.",
+      "Umsækjandi sem er að taka réttindi í fyrsta sinn í flokki sækir verklegt nám hjá ökukennara með löggildingu fyrir flokkinn og bóklegt nám í ökuskóla. Námið fylgir námskrá sem Samgöngustofa setur og ráðherra staðfestir. Hver kennslustund er 45 mínútur.",
+      "Í B-flokki skiptist bóklega námið í Ökuskóla 1, 2 og 3, samtals um 25 kennslustundir, og er oft kennt í netnámi. Verklegir tímar eru teknir samhliða. Ísland.is segir að lágmarkið sé 15 ökutímar og að gera megi ráð fyrir 17 til 25. Hluti verklegs náms skal fara fram í ökugerði áður en ökuprófi lýkur. Áður en bóklegt próf er tekið þurfa 12 ökutímar að liggja fyrir ef Ökuskóla 3 er lokið, en 14 ella.",
+      "BE er ekki sama leið. Námskrá aukinna ökuréttinda frá 22. apríl 2024 skráir fjórar verklegar kennslustundir og engar bóklegar stundir í eftirvögnum. ÖR-próf nær ekki til eftirvagnaflokka.",
+      "C og D eru meirapróf. Grunnnám er 52 kennslustundir: umferðarfræði 12, umferðarsálfræði 12, bíltækni 12 og skyndihjálp 16. Í C bætist við Stór ökutæki, 32 stundir, svo bóklegt nám alls er 84 stundir og verklegt lágmark 12 ökutímar. Í D bætast við Stór ökutæki og ferðafræði, 48 stundir, svo bóklegt nám alls er 100 stundir og verklegt lágmark 12 ökutímar. CE bætist við C með fjórum bóklegum stundum í eftirvögnum og sjö verklegum. Fyrra nám styttir leiðina. Hafi nemandi C eða D og bætir hinum flokknum við má meta fjórar verklegar stundir, og þá standa átta ökutímar eftir. Hafi hann C1E eða D1E má meta fjórar verklegar stundir inn í CE.",
+      "Eldri tafla í 10. gr. reglugerðar nr. 830/2011 nefndi 32 bóklegar stundir fyrir C og 48 fyrir D. Þær tölur eru sérnámið, ekki heildarfjöldi bóklegra stunda. DRIVEON miðar við námskrána frá 2024. Vinsamlegast hafðu samband við DRIVEON til að fá upplýsingar um verð.",
     ],
   },
   {
@@ -52,9 +53,9 @@ const sections = [
   {
     heading: "Ökupróf",
     paragraphs: [
-      "Ökupróf er bóklegt og verklegt. Prófdómari gengur úr skugga um að námsheimild liggi fyrir, að aldursmörk séu uppfyllt og að staðfesting ökukennara og ökuskóla liggi fyrir. Samgöngustofa annast prófin en hefur falið Frumherja framkvæmd þeirra.",
-      "Bóklegt próf má taka mest tveimur mánuðum áður en lágmarksaldri flokksins er náð. Í B-flokki er prófið 50 fullyrðingar og standast þarf með 45 réttum. Verklegt próf má taka allt að tveimur vikum fyrir lágmarksaldur og þarf að vera staðist innan 12 mánaða frá bóklega prófinu. Mæta þarf með gild persónuskilríki með mynd.",
-      "Verklega prófið í B-flokki skiptist í munnlegt próf um ökutækið og akstur. Ísland.is segir að refsistig megi ekki vera fleiri en 20. Ökukennari pantar verklega prófið. Falli nemandi líður að jafnaði vika áður en próf er tekið aftur.",
+      "Samgöngustofa annast prófin en hefur falið Frumherja framkvæmd þeirra. Prófdómari gengur úr skugga um að námsheimild liggi fyrir, að aldursmörk séu uppfyllt og að staðfesting um námið liggi fyrir. Mæta þarf með gild persónuskilríki með mynd.",
+      "Í B-flokki er prófið bæði bóklegt og verklegt. Bóklegt próf má taka mest tveimur mánuðum áður en lágmarksaldri er náð. Það er 50 fullyrðingar og standast þarf með 45 réttum. Verklegt próf má taka allt að tveimur vikum fyrir lágmarksaldur og þarf að vera staðist innan 12 mánaða frá bóklega prófinu. Ísland.is segir að refsistig megi ekki vera fleiri en 20. Sama regla er annars staðar orðuð þannig að próf sé ekki staðið ef heildarstigatala fer undir 80. Ökukennari pantar verklega prófið. Falli nemandi líður vika áður en próf er tekið aftur.",
+      "Í meiraprófi skiptist bóklegt próf í lokapróf ökuskóla og opinbert próf. ÖR er öryggispróf fyrir aukin ökuréttindi, að eftirvögnum undanskildum, og gildir í 12 mánuði. Fyrir C og D er einnig prófað í Stórum ökutækjum, og fyrir D einnig í ferðafræði. Verklegt próf fer ekki fram fyrr en bóklegt próf er staðið. Í BE er ekkert ÖR-próf.",
       "Sé verklegt próf tekið á sjálfskiptu ökutæki er það að jafnaði merkt á skírteinið. Undantekningar eru í reglugerðinni, meðal annars fyrir suma flokka ef umsækjandi hefur þegar tekið aksturspróf á beinskiptu ökutæki.",
     ],
   },
@@ -132,10 +133,12 @@ export default function ProcessPage() {
             <aside className="rounded-2xl border border-amber-200 bg-amber-50 p-6 text-amber-950">
               <h2 className="text-lg font-semibold">Til yfirferðar</h2>
               <p className="mt-3 text-sm leading-6">
-                Reglugerð nr. 830/2011 tilgreinir 17 verklegar kennslustundir í B-flokki. Síðan „Að
-                læra á bíl“ nefnir 15 ökutíma. Síðan um ökunám og Frumherji nefna 12 eða 14
-                ökutíma sem skilyrði fyrir bóklegu prófi, eftir því hvort Ökuskóla 3 er lokið.
-                DRIVEON ætti að staðfesta gildandi námskrá áður en ein tala er notuð sem lágmark.
+                Ísland.is segir að lágmark ökutíma í B-flokki sé 15, og að 12 eða 14 tímar
+                þurfi að liggja fyrir áður en bóklegt próf er tekið, eftir því hvort Ökuskóla
+                3 er lokið. Tafla reglugerðar nr. 830/2011 tilgreinir 17 verklegar stundir.
+                Fyrir aukin réttindi er miðað við námskrá sem var staðfest 22. apríl 2024.
+                Eldri tafla reglugerðarinnar sýnir aðeins sérnámið í C og D, 32 og 48
+                stundir, ekki grunnnámið að viðbættu.
               </p>
             </aside>
 
@@ -157,7 +160,9 @@ export default function ProcessPage() {
                     sources.categories,
                     sources.transportAuthority,
                     sources.regulation,
+                    sources.curriculum,
                     sources.exams,
+                    sources.examFees,
                   ]}
                 />
               </div>

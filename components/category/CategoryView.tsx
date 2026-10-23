@@ -96,7 +96,7 @@ export function CategoryView({ category }: { category: Category }) {
       </article>
       <CtaBand
         title={`Spurðu um ${category.title}`}
-        text="DRIVEON birtir ekki verð eða lausa tíma hér. Sendu fyrirspurn og ökukennarinn svarar."
+        text="Vinsamlegast hafðu samband við DRIVEON til að fá upplýsingar um verð. Fyrirspurn er ekki staðfest bókun."
       />
     </>
   );
